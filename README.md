@@ -1,8 +1,8 @@
-<h1 style="display:block;text-align:center">Hi 👋, I'm Saj</h1>
+<h1 align="center">Hi 👋, I'm Saj</h1>
 
-<h2 style="display:block;text-align:center">About me</h2>
+<h2 align="center">About me</h2>
 
-<h3 style="display:block;text-align:center">I am a full stack developer based in Dubai and originally from UK.</h3>
+<h3 align="center">I am a full stack developer based in Dubai and originally from UK.</h3>
 
 <br>
 
@@ -16,8 +16,8 @@
 
 <br>
 
-<h3 style="display:block;text-align:center">Connect with me:</h3>
-<p style="display:block;text-align:center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/sajakhta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajakhta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sajakhtar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajakhtar" height="30" width="40" /></a>
 </p>
@@ -26,11 +26,11 @@
 
 <br>
 
-<h2 style="display:block;text-align:center">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 <br>
 
-<p style="display:block;text-align:center">
+<p align="center">
 
   <a href="https://www.ruby-lang.org/en/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
@@ -70,10 +70,10 @@
 
 <hr>
 
-<h2 style="display:block;text-align:center">Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 
 
-<div style="display:block;text-align:center">
+<div align="center">
 
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajakhtar&show_icons=true&locale=en" alt="sajakhtar" /></p>
 
