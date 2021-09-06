@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saj</h1>
+<h1 style="display:block;text-align:center">Hi 👋, I'm Saj</h1>
 
-<h2 align="center">About me</h2>
+<h2 style="display:block;text-align:center">About me</h2>
 
-<h3 align="center">I am a full stack developer based in Dubai and originally from UK.</h3>
+<h3 style="display:block;text-align:center">I am a full stack developer based in Dubai and originally from UK.</h3>
 
+<br>
 
 - 🎓 I’ve recently completed **[Le Wagon](https://www.lewagon.com/web-development-course/full-time) full time web development bootcamp** and I am now proficient in full stack development in Ruby on Rails.
 
@@ -15,21 +16,21 @@
 
 <br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/sajakhta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajakhta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajakhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajakhtar" height="30" width="40" /></a>
+<h3 style="display:block;text-align:center">Connect with me:</h3>
+<p style="display:block;text-align:center">
+<a href="https://twitter.com/sajakhta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajakhta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajakhtar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajakhtar" height="30" width="40" /></a>
 </p>
 
 <hr>
 
 <br>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 style="display:block;text-align:center">Languages and Tools</h2>
 
 <br>
 
-<p align="center">
+<p style="display:block;text-align:center">
 
   <a href="https://www.ruby-lang.org/en/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
@@ -69,10 +70,16 @@
 
 <hr>
 
-<h2>Github Stats</h2>
+<h2 style="display:block;text-align:center">Github Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajakhtar&show_icons=true&locale=en" alt="sajakhtar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajakhtar&show_icons=true&locale=en" alt="sajakhtar" /></p>
+<div style="display:block;text-align:center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajakhtar&" alt="sajakhtar" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajakhtar&show_icons=true&locale=en" alt="sajakhtar" /></p>
+
+
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sajakhtar&show_icons=true&locale=en" alt="sajakhtar" /></p>
+
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sajakhtar&" alt="sajakhtar" /></p>
+
+</div>
