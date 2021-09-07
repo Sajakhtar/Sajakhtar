@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 
-<h3 align="center">I am a full stack developer based in Dubai and originally from UK.</h3>
+<h3 align="center">I am a fullstack developer based in Dubai and originally from UK.</h3>
 
 <br>
 
