@@ -12,7 +12,7 @@
 
 - 📊 🦾 I have scripted solutions in JavaScript and Python for data analysis and automating workflows in Google Marketing Platform (GMP) using various Google APIs.
 
-- ₿ 🌱 I have an interest in Web3.0, Crypto and decentralizatioin in general, so I’m now learning **Clarity Smart Contract language for Stacks blockchain**.
+- ₿ 🌱 I have an interest in Bitcoin, decentralizatioin and self-sovereignty, so I’m now diving into the technical weeds of Bitcoin and the Lightning Network.
 
 <br>
 
