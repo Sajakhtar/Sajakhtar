@@ -2,13 +2,10 @@
 
 <h2 align="center">About me</h2>
 
-<h3 align="center">I am a fullstack developer based in Dubai and originally from UK.</h3>
+<h3 align="center">I am a novice fullstack developer based in Dubai and originally from UK.</h3>
 
 <br>
 
-- 🎓 I’ve recently completed **[Le Wagon](https://www.lewagon.com/web-development-course/full-time) full time web development bootcamp** and I am now proficient in full stack development in Ruby on Rails.
-
-- 🔭 I’m currently working on [CryptoCanons.](https://www.cryptocanons.com/) - this was the final group project during the [Le Wagon bootcamp](https://www.lewagon.com/web-development-course/full-time).
 
 - 📊 🦾 I have scripted solutions in JavaScript and Python for data analysis and automating workflows in Google Marketing Platform (GMP) using various Google APIs.
 
